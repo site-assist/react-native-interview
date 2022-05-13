@@ -14,12 +14,12 @@ Your task is as follows:
 Design and implement a Calculator mobile application. Showcase as many different concepts
 that you think would be useful to be in a modern complex mobile application. Use any technologies/libraries you like
 
-####The functional requirements of this Calculator app are as follows:
+#### The functional requirements of this Calculator app are as follows:
 
 1. Perform basic mathematical operations
 2. Store a history of mathematical operations with a screen that shows them in a list
 
-####The non-functional requirements of this Calculator app are as follows:
+#### The non-functional requirements of this Calculator app are as follows:
 
 1. Use react-navigation as the navigation library
 2. Use styled-components for styling
@@ -27,7 +27,7 @@ that you think would be useful to be in a modern complex mobile application. Use
 4. Follow best coding practices
 5. Use redux to manage basic state. Feel free to use any other data storage solutions to supplement functionality if you wish
 
-####Additionally, some nice additional requirements to consider adding would be:
+#### Additionally, some nice additional requirements to consider adding would be:
 
 1. Persist the Calculator history between app hard closes
 2. Support operations on the answer to the previous calculation
