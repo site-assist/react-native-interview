@@ -28,7 +28,7 @@ This assignment should take no longer than 2 or 3 hours to complete
 #### The non-functional requirements of this Calculator app are as follows:
 
 1. Use react-navigation as the navigation library
-2. Use styled-components for styling. We use Rebass type components for base styles using styled-system on top of styled-components in our production applications. Feel free to use these for even more convenient styling if you are comfortable. The base components are provided in the `src/fundamentals` directory`
+2. Use styled-components for styling. *We use Rebass type components for base styles using styled-system on top of styled-components in our production applications. Feel free to use these for even more convenient styling if you are comfortable. The base components are provided in the `src/fundamentals` directory`*
 3. A thought out code/folder structure for extendable development
 4. Follow best coding practices
 5. Use redux to manage basic state. Feel free to use any other data storage solutions to supplement functionality if you wish
