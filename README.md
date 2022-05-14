@@ -20,7 +20,9 @@ This assignment should take no longer than 2 or 3 hours to complete
 
 1. Perform basic mathematical operations (addition and subtraction)
 2. Input values and operations using on-screen buttons in a grid layout like the example below (please do feel free to add your own creative twist to make it a more enjoyable experience):
+3. 
 ![image](https://user-images.githubusercontent.com/102516120/168407307-5aff66e7-694c-4dab-bbcf-11bb9faeca98.png)
+
 3. Store a history of mathematical operations with a screen that shows them in a list
 
 #### The non-functional requirements of this Calculator app are as follows:
