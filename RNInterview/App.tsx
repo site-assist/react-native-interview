@@ -14,10 +14,18 @@ import {
   ScrollView,
   StatusBar,
   StyleSheet,
-  Text,
   useColorScheme,
   View,
 } from 'react-native';
+import {
+  Box,
+  Flex,
+  Collapsible,
+  Icon,
+  Image,
+  Pressable,
+  Text,
+} from './src/fundamentals';
 
 import {
   Colors,
@@ -32,7 +40,8 @@ const Section: React.FC<{
 }> = ({children, title}) => {
   const isDarkMode = useColorScheme() === 'dark';
   return (
-    <View style={styles.sectionContainer}>
+    <Box mt={32} px={24}>
+      <Icon name={'plus'} size={20} />
       <Text
         style={[
           styles.sectionTitle,
@@ -51,7 +60,7 @@ const Section: React.FC<{
         ]}>
         {children}
       </Text>
-    </View>
+    </Box>
   );
 };
 

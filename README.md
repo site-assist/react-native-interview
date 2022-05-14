@@ -12,7 +12,7 @@ Your task is as follows:
 ## Description
 
 Design and implement a Calculator mobile application. Showcase as many different concepts
-that you think would be useful to be in a modern complex mobile application. Use any technologies/libraries you like.
+that you think would be useful to be in a modern complex mobile application.
 
 This assignment should take no longer than 2 or 3 hours to complete
 
@@ -29,9 +29,10 @@ This assignment should take no longer than 2 or 3 hours to complete
 
 1. Use react-navigation as the navigation library
 2. Use styled-components for styling. *We use Rebass type components for base styles using styled-system on top of styled-components in our production applications. Feel free to use these for even more convenient styling if you are comfortable. The base components are provided in the `src/fundamentals` directory*
-3. A thought out code/folder structure for extendable development
-4. Follow best coding practices
-5. Use redux to manage basic state. Feel free to use any other data storage solutions to supplement functionality if you wish
+3. Use redux to manage basic state. Feel free to use any other data storage solutions to supplement functionality if you wish
+4. Other than the libraries mentioned above, feel free to use any other libraries you like. We are not looking for you to make everything from scratch and this task is seeing what you can build under constraints one of which is time.
+5. A thought out code/folder structure for extendable development. You have total control over this, feel free to move things around and organise as you see fit.
+6. Follow best coding practices
 
 #### Additionally, some nice additional requirements to consider adding would be:
 
