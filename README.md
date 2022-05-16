@@ -1,6 +1,6 @@
 # 🏗 SiteAssist React Native Exercise
 
-##👋 Welcome! 
+## 👋 Welcome! 
 
 In this exercise we aim to understand how you would solve a simple problem. The goal of this is to see what you know and your experience level in React Native, your general coding style & practices
 as well the way you approach the solving the task.
