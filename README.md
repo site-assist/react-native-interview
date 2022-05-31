@@ -44,7 +44,7 @@ Good luck and looking forward to seeing what you come up with!
 
 #### Submission
 
-To submit the assignment, please send us a tarball of the project. 
+To submit the assignment, please a tarball of the project to `tech-task-submissions@siteassist.co` 
 
 You should also submit the .git folder so that we can get an idea of the history of your changes.
 
